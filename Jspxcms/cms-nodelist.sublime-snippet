@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[ [@InfoList node='' limit='1' isWithImage='true' isIncludeChildren='true';list]
+                 [#list list as info]
+                 [/#list]
+           		 [/@InfoList]]]></content>
+	<tabTrigger>nodelist</tabTrigger>
+    <description>Jspxcms - @NodeList</description>
+</snippet>
+	<scope>text.html</scope>

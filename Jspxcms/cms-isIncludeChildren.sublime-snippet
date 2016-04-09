@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ isIncludeChildren="true"]]></content>
+	<tabTrigger>arg</tabTrigger>
+    <description>Jspxcms - isIncludeChildren 是否包含子节点</description>
+</snippet>
+	<scope>text.html</scope>

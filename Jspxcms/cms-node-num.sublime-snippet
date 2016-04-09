@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[[@Node number=node.number; node]  [/@Node]]]></content>
+	<tabTrigger>node</tabTrigger>
+    <description>Jspxcms - @node with number</description>
+</snippet>
+	<scope>text.html</scope>

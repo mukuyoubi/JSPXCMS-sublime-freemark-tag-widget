@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ \${info.title}]]></content>
+	<tabTrigger>info</tabTrigger>
+    <description>Jspxcms - @info.title</description>
+</snippet>
+	<scope>text.html</scope>

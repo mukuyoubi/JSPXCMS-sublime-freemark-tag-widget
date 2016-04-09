@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[ 
+	[@InfoPrev id='30';bean] 
+	[#if bean??] 
+	<a href="${bean.url}">${bean.title}</a> 
+	[#else] 
+	没有了 
+	[/#if] 
+	[/@InfoPrev] 
+	]]></content>
+	<tabTrigger>prev</tabTrigger>
+    <description>Jspxcms - @InfoPrev</description>
+</snippet>
+	<scope>text.html</scope>

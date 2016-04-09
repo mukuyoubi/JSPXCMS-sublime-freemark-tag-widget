@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ [#include 'inc_footer.html'/] ]]></content>
+	<tabTrigger>inc</tabTrigger>
+    <description>Jspxcms - inc-footer</description>
+</snippet>
+	<scope>text.html</scope>

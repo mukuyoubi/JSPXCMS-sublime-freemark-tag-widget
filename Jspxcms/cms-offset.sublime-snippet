@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ offset="0"]]></content>
+	<tabTrigger>arg</tabTrigger>
+    <description>Jspxcms - offset</description>
+</snippet>
+	<scope>text.html</scope>

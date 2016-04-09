@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ limit="7"]]></content>
+	<tabTrigger>arg</tabTrigger>
+    <description>Jspxcms - limit</description>
+</snippet>
+	<scope>text.html</scope>

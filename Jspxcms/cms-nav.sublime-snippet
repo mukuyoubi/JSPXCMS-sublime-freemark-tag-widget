@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[        
+		[@Node number="";node]
+        <!-- write your home page html tag -->
+        [/@Node]
+        [@NodeList parent="" limit="6";list]
+        <!-- sencond node -->
+        [#list list as node]
+
+                    [@NodeList parentId=node.id;children]
+                    [#list children as child]
+                    <!-- write your child node-->
+                    [/#list]
+                    [/@NodeList]
+
+                [/#list]
+            [/@NodeList]
+            ]]></content>
+	<tabTrigger>nav</tabTrigger>
+    <description>Jspxcms - nav-simple</description>
+</snippet>
+	<scope>text.html</scope>
