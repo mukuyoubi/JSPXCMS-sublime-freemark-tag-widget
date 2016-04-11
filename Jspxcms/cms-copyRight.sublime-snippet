@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[ 
+		\${node.customs['pub-name']}
+		\${node.customs['pub-support'] }
+		\${node.customs['pub-phone']}
+		\${node.customs['pub-address']}
+		]]></content>
+	<tabTrigger>copy</tabTrigger>
+    <description>Jspxcms - COPYRIGHT</description>
+</snippet>
+	<scope>text.html</scope>

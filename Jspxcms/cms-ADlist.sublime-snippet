@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[ 
+					    [@AdList slot='AHS_banner' ;adList]
+					    [#list adList as ad]
+					    <img src="${ad.image!}" alt="${ad.text!}">
+					    [/#list]
+					    [/@AdList]
+           		 ]]></content>
+	<tabTrigger>ad</tabTrigger>
+    <description>Jspxcms - @NodeList</description>
+</snippet>
+	<scope>text.html</scope>
