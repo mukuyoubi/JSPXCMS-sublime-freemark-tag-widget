@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[        
+[@FriendlinkList type='AD001';list]
+[#list list as link]
+    <li class="[#if link_index==0]first[/#if]"><a href="${link.url}"><img src="${link.logo}"  /></a></li>
+[/#list]
+[/@FriendlinkList]
+            ]]></content>
+	<tabTrigger>links</tabTrigger>
+    <description>Jspxcms - @FriendlinkList </description>
+</snippet>
+	<scope>text.html</scope>

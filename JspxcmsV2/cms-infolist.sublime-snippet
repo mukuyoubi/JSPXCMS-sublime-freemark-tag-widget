@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[ 
+[@InfoList node='' limit='4' ;list]
+	[#list list as info]
+	
+	[/#list]
+[/@InfoList]
+           		 ]]></content>
+	<tabTrigger>infolist</tabTrigger>
+    <description>Jspxcms - @InfoList</description>
+</snippet>
+	<scope>text.html</scope>

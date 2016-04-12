@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ \${info.publishDate?string('MM/dd')}]]></content>
+	<tabTrigger>times</tabTrigger>
+    <description>Jspxcms - time[mm/dd]</description>
+</snippet>
+	<scope>text.html</scope>

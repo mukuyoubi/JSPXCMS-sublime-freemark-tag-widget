@@ -1,11 +1,8 @@
 <snippet>
-	<content><![CDATA[
-						[@NodeList parentId=node.id;list] 
-						[#list list as node]
-						<a href="${node.url}">${node.name}</a>
-						[/#list]
-						[/@NodeList]
-           		 ]]></content>
+	<content><![CDATA[ [@InfoList node='' limit='4' ;list]
+                 [#list list as info]
+                 [/#list]
+           		 [/@InfoList]]]></content>
 	<tabTrigger>infolist</tabTrigger>
     <description>Jspxcms - @InfoList</description>
 </snippet>

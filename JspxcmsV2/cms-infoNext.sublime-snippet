@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ 
-	[@InfoNext id=info.id; bean] 
+	[@InfoNext id=info.id;bean] 
 	[#if bean??] 
 	<a href="${bean.url}">${bean.title}</a> 
 	[#else] 

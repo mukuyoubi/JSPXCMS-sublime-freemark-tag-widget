@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[ 
+[@NodeList parentId=node.id;list] 
+	[#list list as node]
+	<a href="${node.url}">${node.name}</a>
+	[/#list]
+[/@NodeList]
+           		 ]]></content>
+	<tabTrigger>nodelist</tabTrigger>
+    <description>Jspxcms - @NodeList</description>
+</snippet>
+	<scope>text.html</scope>

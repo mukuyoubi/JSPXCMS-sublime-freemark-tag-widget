@@ -1,59 +1,43 @@
-###author:ben chiu
-###license:MIT
-###version:2.0.2
+author:ben chiu
+license:MIT
 
 
 
-###usage:
+usage:
 
 copy to  preference → browse packages.
 type key and Tab.
 
 
-###inc
+inc
 
 	-header
 	-footer
 	-page
 
-###node
+node
 
 	-id
 	-name
 	-number
 
-###info
+info
 
     -url
     -imageUrl
     -title
 
 
-links
--@FriendlinkList
+link--@FriendlinkList
+prev--@InfoPrev
+next--@@InfoNext
+nav -- a nav simple
+nodelist--@NodeList
+page-- a page tag simple
+sub -- substring
+time--info.publishDate
 
-prev
--@InfoPrev
-
-next
--@InfoNext
-
-nav
-- a nav simple
-
-nodelist
--@NodeList
-
-page
-- a page tag simple
-
-subs
-- substring
-
-times
--info.publishDate
-
-###arg
+arg
 
 	-isWithImage
 	-isRecommend

@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[        
+	<content><![CDATA[        
                                    [#if pagedList.totalPages > 1] 
     
                     <div class="ye">
@@ -29,7 +29,7 @@
                 [#else]
                 [/#if]
             ]]></content>
-    <tabTrigger>page</tabTrigger>
+	<tabTrigger>page</tabTrigger>
     <description>Jspxcms - @pages</description>
 </snippet>
-    <scope>text.html</scope>
+	<scope>text.html</scope>

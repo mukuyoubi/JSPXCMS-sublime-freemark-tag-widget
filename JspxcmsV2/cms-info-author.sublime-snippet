@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ \${info.author}]]></content>
+	<tabTrigger>info</tabTrigger>
+    <description>Jspxcms - @info.author</description>
+</snippet>
+	<scope>text.html</scope>

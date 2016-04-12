@@ -6,7 +6,7 @@
          [/#list]
          [/@FriendlinkList]
             ]]></content>
-	<tabTrigger>link</tabTrigger>
+	<tabTrigger>links</tabTrigger>
     <description>Jspxcms - @FriendlinkList </description>
 </snippet>
 	<scope>text.html</scope>
