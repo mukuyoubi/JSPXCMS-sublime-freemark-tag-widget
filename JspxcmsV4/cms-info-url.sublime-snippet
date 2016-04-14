@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ \${info.url}]]></content>
+	<tabTrigger>info</tabTrigger>
+    <description>JspXcms - @info.url</description>
+</snippet>
+	<scope>text.html</scope>

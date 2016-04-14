@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[ \${link.logo}  /></a></li>
+            ]]></content>
+	<tabTrigger>links</tabTrigger>
+    <description>Jspxcms - @logo </description>
+</snippet>
+	<scope>text.html</scope>

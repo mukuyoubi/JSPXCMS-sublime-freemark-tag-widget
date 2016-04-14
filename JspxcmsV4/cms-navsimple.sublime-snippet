@@ -1,0 +1,33 @@
+<snippet>
+	<content><![CDATA[        
+        <div class="nav">
+            <ul>        
+                    
+                    <li class="[#if node.number="kfqZxxx"] on [/#if] toIndex">
+                    [@Node number="kfqZxxx";node]
+                    <a href=" ${node.url}"> 网站首页</a>
+                    [/@Node]
+                    </li>
+                    
+                    </ul>
+                    <ul>
+                    [@NodeList parent="kfqZxxx" limit="9";list]
+                    [#list list as n]
+                    <li class="[#if (node.hierarchy[3])?? && node.hierarchy[3].id == n.id]on[/#if]" ><a href=" ${n.url}">  ${n.name}</a>
+                                <ul>
+                                [@NodeList parentId=n.id;children]
+                                [#list children as child]
+                                <li><a href="${child.url}">${child.name}</a></li>
+                                [/#list]
+                                [/@NodeList]
+                                </ul>
+                    </li>
+                            [/#list]
+                        [/@NodeList]
+                    </ul>           
+        </div>
+            ]]></content>
+	<tabTrigger>navs</tabTrigger>
+    <description>Jspxcms - nav-simple2</description>
+</snippet>
+	<scope>text.html</scope>

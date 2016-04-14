@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ isRecommend="true"]]></content>
+	<tabTrigger>arg</tabTrigger>
+    <description>Jspxcms - isRecommend</description>
+</snippet>
+	<scope>text.html</scope>

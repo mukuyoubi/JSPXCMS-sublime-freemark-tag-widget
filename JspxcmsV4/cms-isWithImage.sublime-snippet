@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ isWithImage="true"]]></content>
+	<tabTrigger>arg</tabTrigger>
+    <description>Jspxcms - isWithImage</description>
+</snippet>
+	<scope>text.html</scope>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ \${substring(info.description,160,'...')}]]></content>
+	<tabTrigger>subs</tabTrigger>
+    <description>JSPxcms - sub-simple</description>
+</snippet>
+	<scope>text.html</scope>

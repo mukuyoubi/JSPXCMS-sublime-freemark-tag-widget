@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ [#include 'inc-left.html'/] ]]></content>
+	<tabTrigger>inc</tabTrigger>
+    <description>Jspxcms - inc-left</description>
+</snippet>
+	<scope>text.html</scope>

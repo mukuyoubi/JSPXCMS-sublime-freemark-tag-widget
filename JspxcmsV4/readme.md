@@ -1,6 +1,6 @@
 ###author:ben chiu
 ###license:MIT
-###version：4.1.2
+###version：2.1.2
 
 
 ###Usage:
@@ -42,18 +42,14 @@ arg
 	-limit
 
 bean
+
 	-url
 	-title
-
-link
-	-url
-	-logo
-	-name
 
 link--@FriendlinkList
 prev--@InfoPrev
 next--@@InfoNext
-nav --  nav simple
+nav -- a nav simple
 nodelist--@NodeList
 infolist--@InfoList
 page-- a page tag simple
