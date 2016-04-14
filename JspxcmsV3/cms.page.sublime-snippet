@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ [#include 'inc-page.html'/] ]]></content>
+	<tabTrigger>inc</tabTrigger>
+    <description>Jspxcms - inc-page</description>
+</snippet>
+	<scope>text.html</scope>

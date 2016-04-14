@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[ 
+	[@InfoNext id=info.id;bean] 
+	[#if bean??] 
+	<a href="${bean.url}">${bean.title}</a> 
+	[#else] 
+	没有了 
+	[/#if] 
+	[/@InfoNext] 
+	]]></content>
+	<tabTrigger>next</tabTrigger>
+    <description>Jspxcms - next</description>
+</snippet>
+	<scope>text.html</scope>

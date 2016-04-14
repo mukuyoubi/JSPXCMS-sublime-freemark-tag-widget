@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[        
+[@InfoPage node='number' pageSize=20; pagedList]
+    [#list pagedList.content as info]
+    <!-- write info here -->        
+    [/#list]
+  [#include 'inc-page.html'/]
+[/@InfoPage]
+            ]]></content>
+	<tabTrigger>infopage</tabTrigger>
+    <description>JSPxcms - @InfoPage</description>
+</snippet>
+	<scope>text.html</scope>

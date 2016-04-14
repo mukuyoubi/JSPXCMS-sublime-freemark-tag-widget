@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ \${node.url}]]></content>
+	<tabTrigger>node</tabTrigger>
+    <description>Jspxcms - @node.url</description>
+</snippet>
+	<scope>text.html</scope>

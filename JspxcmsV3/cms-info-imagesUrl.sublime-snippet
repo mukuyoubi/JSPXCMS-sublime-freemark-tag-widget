@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ \${info.smallImageUrl}]]></content>
+	<tabTrigger>info</tabTrigger>
+    <description>Jspxcms - @info.imageUrl</description>
+</snippet>
+	<scope>text.html</scope>

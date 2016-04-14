@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ \${bean.title} ]]></content>
+	<tabTrigger>bean</tabTrigger>
+    <description>Jspxcms - @title</description>
+</snippet>
+	<scope>text.html</scope>
