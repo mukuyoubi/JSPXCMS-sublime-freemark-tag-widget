@@ -42,13 +42,16 @@ arg
 	-limit
 
 bean
+
 	-url
 	-title
 
 link
+
 	-url
 	-logo
 	-name
+
 
 link--@FriendlinkList
 prev--@InfoPrev
