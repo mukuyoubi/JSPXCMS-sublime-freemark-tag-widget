@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ \${info.text}]]></content>
+	<content><![CDATA[\${info.text}]]></content>
 	<tabTrigger>info</tabTrigger>
     <description>Jspxcms - @info.text</description>
 </snippet>

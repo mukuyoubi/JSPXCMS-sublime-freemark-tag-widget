@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ \${info.author}]]></content>
+	<content><![CDATA[\${info.author}]]></content>
 	<tabTrigger>info</tabTrigger>
     <description>Jspxcms - @info.author</description>
 </snippet>

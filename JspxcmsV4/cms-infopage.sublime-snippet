@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[        
-[@InfoPage node=node.name pageSize=20; pagedList]
+[@InfoPage node=node.number pageSize=20; pagedList]
     [#list pagedList.content as info]
     <!-- write info here -->        
     [/#list]

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ \${bean.url} ]]></content>
+	<content><![CDATA[\${bean.url} ]]></content>
 	<tabTrigger>bean</tabTrigger>
     <description>Jspxcms - @url</description>
 </snippet>

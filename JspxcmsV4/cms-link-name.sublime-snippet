@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ \${link.name}  /></a></li>
+	<content><![CDATA[\${link.name}  /></a></li>
             ]]></content>
 	<tabTrigger>links</tabTrigger>
     <description>Jspxcms - @name </description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ \${info.url}]]></content>
+	<content><![CDATA[\${info.url}]]></content>
 	<tabTrigger>info</tabTrigger>
     <description>JspXcms - @info.url</description>
 </snippet>

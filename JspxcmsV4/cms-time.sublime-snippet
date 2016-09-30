@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ \${info.publishDate?string('yyyy-MM-dd')}]]></content>
+	<content><![CDATA[\${info.publishDate?string('yyyy-MM-dd')}]]></content>
 	<tabTrigger>times</tabTrigger>
     <description>Jspxcms - time[yyyy-MM-dd]</description>
 </snippet>
