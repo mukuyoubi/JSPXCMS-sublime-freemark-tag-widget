@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\${info.url}]]></content>
+	<tabTrigger>info</tabTrigger>
+    <description>JspXcms - @info.url-old 兼容云南后台</description>
+</snippet>
+	<scope>text.html</scope>
