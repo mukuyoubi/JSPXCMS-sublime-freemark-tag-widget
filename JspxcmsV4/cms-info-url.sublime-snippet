@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[\${getHref(info.url)!}]]></content>
 	<tabTrigger>info</tabTrigger>
-    <description>JspXcms - @info.url</description>
+    <description>JspXcms - @info.url-new 直接替换href</description>
 </snippet>
 	<scope>text.html</scope>
